@@ -1,0 +1,16 @@
+body{
+    background-color:lavender;
+}
+.header{
+    background-color:cadetblue;
+    color: lightgrey;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
